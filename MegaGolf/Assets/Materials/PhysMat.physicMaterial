@@ -7,8 +7,15 @@ PhysicMaterial:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PhysMat
+<<<<<<< Updated upstream
   dynamicFriction: 0
   staticFriction: 0
   bounciness: 1
   frictionCombine: 2
+=======
+  dynamicFriction: 100
+  staticFriction: 0.1
+  bounciness: 0.6
+  frictionCombine: 1
+>>>>>>> Stashed changes
   bounceCombine: 0
